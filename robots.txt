@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://gns3526.github.io/sitemap.xml
